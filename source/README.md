@@ -1,2 +1,2 @@
-博客空间：https://wugenqiang.gitee.io
+博客空间：https://wugenqiang.github.io
 欢迎你的到来~~
